@@ -1,0 +1,38 @@
+body {
+    font-family:"Markazi Text" ;
+    width: 1000px;
+    border: 1px solid black;
+}
+
+header{
+    margin-top: 30px;
+}
+
+main{
+    margin-top: 30px;
+}
+
+#bg{
+    background-color: rgb(233, 132, 59);
+    height: 350px;
+    margin-top: -140px;
+    color: white;
+}
+
+img{
+    width: 190px;
+    height: 260px;
+}
+span{
+    font-size: 25px;
+}
+#bg a{
+    color: white;
+    text-decoration: none;
+}
+h3{
+    color:rgb(238, 131, 43);
+}
+li{
+    text-decoration: none;
+}
