@@ -1,6 +1,7 @@
 body {
     font-family:"Markazi Text" ;
-    width: 100%;
+    margin: 50px;
+    font-size: 25px;
 }
 
 header{
@@ -9,6 +10,7 @@ header{
 
 main{
     margin-top: 30px;
+    font-size: 1.25em;
 }
 
 #bg{
@@ -21,9 +23,6 @@ main{
 img{
     width: 190px;
     height: 260px;
-}
-span{
-    font-size: 25px;
 }
 #bg a{
     color: white;
